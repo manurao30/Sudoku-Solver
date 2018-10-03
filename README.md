@@ -1,2 +1,2 @@
 # Sudoku-Solver
-This is my code for a brute-force Sudoku solver written in C++.
+This is my code for a Sudoku Solver written in C++.
